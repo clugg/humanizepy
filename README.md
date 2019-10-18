@@ -1,11 +1,13 @@
-#humanizepy
+# humanizepy
 
 This package was inspired by [PHP Humanizer](https://github.com/coduo/php-humanizer) and a lot of the code is directly ported from that repo, as well as the README itself.
 Apologies for the messy and undocumented code, this was made in 2 hours.
 
-#Usage
 
-## Text
+
+## Usage
+
+### Text
 
 **Humanize**
 
@@ -38,7 +40,7 @@ Lorem
 Lorem ipsum dolorem si amet, lorem ipsum. Dolorem sic et nunc.
 ```
 
-## Number
+### Number
 
 **Ordinalize**
 
@@ -158,7 +160,7 @@ Number can also be humanized with a specific number of decimal places with `prec
 3.5M
 ```
 
-## Collections
+### Collections
 
 **Oxford**
 
@@ -173,7 +175,7 @@ Michal, Norbert, and 1 other
 Michal and Norbert
 ```
 
-## Date time
+### Date/Time
 
 **Difference**
 
